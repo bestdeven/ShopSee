@@ -103,7 +103,7 @@ export default function LandingPage(props) {
       },
       loop: true,
     };
-    // swiper var IS used for the product swiper   
+    // swiper var IS used for the product swiper
     // eslint-disable-next-line no-unused-vars
     var swiper = new Swiper('.swiper-container', config)
     })
@@ -122,7 +122,7 @@ export default function LandingPage(props) {
             justify="center"
           >
             <div className="landing-intro-text">
-              ShopSee is a blah blah blah blah blah blah blah
+              ShopSee
             </div>
             <div className="landing-intro-subtext">
               blah blah blah blah blah blah blah blah blah blah blah blah blah
@@ -160,7 +160,7 @@ export default function LandingPage(props) {
                 className="stream__thumbnail"
               />
             </div>
-             
+
           </Grid>
         </Grid>
       </div>
@@ -235,7 +235,7 @@ export default function LandingPage(props) {
       <div className="swiper-container">
           <div className="swiper-wrapper">
             {
-              slideData.map(el => 
+              slideData.map(el =>
                   <div className="swiper-slide" >
                     <Card className={ el.class }>
                       <h2 className="title">{ el.name }</h2>
