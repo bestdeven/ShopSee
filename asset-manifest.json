@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ShopSee/static/css/main.71c4c3b2.chunk.css",
+    "main.js": "/ShopSee/static/js/main.2d314a5d.chunk.js",
+    "main.js.map": "/ShopSee/static/js/main.2d314a5d.chunk.js.map",
+    "runtime-main.js": "/ShopSee/static/js/runtime-main.45293c05.js",
+    "runtime-main.js.map": "/ShopSee/static/js/runtime-main.45293c05.js.map",
+    "static/css/2.ebe5657b.chunk.css": "/ShopSee/static/css/2.ebe5657b.chunk.css",
+    "static/js/2.69d43d63.chunk.js": "/ShopSee/static/js/2.69d43d63.chunk.js",
+    "static/js/2.69d43d63.chunk.js.map": "/ShopSee/static/js/2.69d43d63.chunk.js.map",
+    "static/js/3.b366a909.chunk.js": "/ShopSee/static/js/3.b366a909.chunk.js",
+    "static/js/3.b366a909.chunk.js.map": "/ShopSee/static/js/3.b366a909.chunk.js.map",
+    "index.html": "/ShopSee/index.html",
+    "static/css/2.ebe5657b.chunk.css.map": "/ShopSee/static/css/2.ebe5657b.chunk.css.map",
+    "static/css/main.71c4c3b2.chunk.css.map": "/ShopSee/static/css/main.71c4c3b2.chunk.css.map",
+    "static/js/2.69d43d63.chunk.js.LICENSE.txt": "/ShopSee/static/js/2.69d43d63.chunk.js.LICENSE.txt",
+    "static/media/logo-outline.1fe10a2f.png": "/ShopSee/static/media/logo-outline.1fe10a2f.png",
+    "static/media/logo.6ce24c58.svg": "/ShopSee/static/media/logo.6ce24c58.svg",
+    "static/media/logo.f76c877b.png": "/ShopSee/static/media/logo.f76c877b.png",
+    "static/media/shopping-image.2332ccbd.png": "/ShopSee/static/media/shopping-image.2332ccbd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45293c05.js",
+    "static/css/2.ebe5657b.chunk.css",
+    "static/js/2.69d43d63.chunk.js",
+    "static/css/main.71c4c3b2.chunk.css",
+    "static/js/main.2d314a5d.chunk.js"
+  ]
+}
