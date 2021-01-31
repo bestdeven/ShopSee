@@ -1,0 +1,14 @@
+.logo {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 20px;
+  /* width: 12%; */
+}
+
+.logo__text {
+  color: #2fc6a8;
+  font-weight: 600;
+  font-size: 30px;
+  margin-left: 13px;
+}
