@@ -122,7 +122,7 @@ export default function LandingPage(props) {
             justify="center"
           >
             <div className="landing-intro-text">
-              ShopSee
+              ShopSee Ok
             </div>
             <div className="landing-intro-subtext">
               blah blah blah blah blah blah blah blah blah blah blah blah blah
